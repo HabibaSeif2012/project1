@@ -2,7 +2,7 @@ import React from 'react'
 export default function About() {
   return (
     <div className=' bg-pink-200 h-screen overflow-hidden'>
-        <div className=' mt-28'>
+        <div className=' mt-10'>
          <h2 className='text-5xl text-pink-900 font-bold'>About <i class="fa-regular fa-address-card"></i></h2>
          <div>
         
